@@ -1,4 +1,4 @@
-🔢 Ordinal Encoding in Machine Learning:
+**🔢 Ordinal Encoding in Machine Learning:**
 
 This Jupyter Notebook demonstrates the Ordinal Encoding technique, which is used to convert categorical variables with a meaningful order into numerical format for machine learning models.
 
